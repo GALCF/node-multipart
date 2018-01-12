@@ -1,0 +1,17 @@
+{
+  "esversion" : 6,
+  "esnext": false,
+  "moz": true,
+  "boss": true,
+  "node": true,
+  "validthis": true,
+  "globals": {
+    "EventEmitter": true,
+    "Promise": true,
+    "angular": true,
+    "firebase": true,
+    "jQuery": true,
+    "Config": true,
+    "moment": true
+  }
+}

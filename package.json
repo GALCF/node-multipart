@@ -1,0 +1,20 @@
+{
+  "name": "node-multipart",
+  "version": "1.0.0",
+  "description": "A javascript/nodejs multipart/form-data parser.",
+  "main": "multipart.js",
+  "author": "Christian Flack (christian.flack@gal-digital.de)",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multipart/form-data",
+    "form",
+    "fileuploader"
+  ],
+  "dependencies": {
+    "buffer-split": "^1.0.0",
+    "unique-filename": "^1.1.0"
+  }
+}
