@@ -1,7 +1,7 @@
 {
   "name": "node-multipart",
   "version": "1.0.0",
-  "description": "A javascript/nodejs multipart/form-data parser.",
+  "description": "A javascript/nodejs multipart/form-data parser middleware.",
   "main": "multipart.js",
   "author": "Christian Flack (christian.flack@gal-digital.de)",
   "license": "MIT",
